@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+<rect width="1000" height="620" rx="34" fill="url(#g)"/>
+<g stroke="#5eead4" stroke-width="6" fill="none" opacity=".65">
+ <rect x="140" y="130" width="720" height="330" rx="24"/>
+ <path d="M225 375l150-150 125 105 110-85 165 130"/>
+ <circle cx="375" cy="225" r="14" fill="#5eead4"/>
+</g>
+<text x="500" y="540" text-anchor="middle" fill="#ccfbf1" font-family="Arial, sans-serif" font-size="34">PROJECT / RESEARCH IMAGE PLACEHOLDER</text>
+</svg>
